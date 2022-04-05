@@ -1,0 +1,26 @@
+{
+  "name": "typescript_dio",
+  "version": "1.0.0",
+  "description": "Project create for program Philips Full Stack developer from Digital innovatio One",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renato130182/introduction_typescript_JS.git"
+  },
+  "author": "Renato Soares",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renato130182/introduction_typescript_JS/issues"
+  },
+  "homepage": "https://github.com/renato130182/introduction_typescript_JS#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
